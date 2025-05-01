@@ -2,26 +2,29 @@ export const projects = [
   {
     id: 1,
     image:
-      "https://cdn-developer-wp.arc.dev/wp-content/uploads/2022/06/coding-programming-project-ideas-1128x635.jpg",
-    title: "Developpement d'une application web avec Laravel et React Js",
+      "/src/assets/images/site1.png",
+    title: "Developpement d'un site E-commerce avec React Js",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
+      "Family-Shopping est une plateforme e-commerce moderne dédiée à toute la famille. Que vous cherchiez des vêtements tendance pour homme, des tenues élégantes pour femme ou des habits confortables pour enfant, notre boutique en ligne propose un large choix d’articles pour tous les goûts et tous les âges. Avec une interface intuitive, un design épuré et un système de commande sécurisé, Family-Shopping vous offre une expérience d’achat fluide, rapide et agréable — le tout, sans quitter votre domicile.",
+      link: "https://github.com/Menezndri2023/family-shopping.git"
   },
   {
     id: 2,
     image:
-      "https://www.wisembly.com/assets/wizuploads/2022/12/page-event-en-800x704.webp",
-    title: "Developpement d'un site web d'evenements",
+      "/src/assets/images/site2.png",
+    title: "Developpement d'un Portfolio avec React Jsx",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
+      "Ce portfolio est une application web interactive développée avec React.js, mettant en valeur mes projets, compétences et expériences dans le domaine du développement web. Grâce à l’utilisation de composants dynamiques en JSX, d’une architecture modulaire et d’un design responsive, ce site offre une navigation fluide et une présentation claire de mon parcours. Il illustre ma capacité à créer des interfaces modernes, performantes et adaptées aux besoins des utilisateurs.",
+      link: "https://github.com/Menezndri2023/nouveau-portfolio.git",
   },
   {
     id: 3,
     image:
-      "https://kinsta.com/fr/wp-content/themes/kinsta/images/custom-pages/page/landing-best-wordpress-themes/screenshots/oceanwp.jpg",
-    title: "Developpement d'une application web-ecommerce",
+      "/src/assets/images/site3.png",
+    title: "Developpement d'une application E-commerce",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
+      "African Foods est une application web dédiée à la découverte et à la valorisation de la cuisine africaine. Où que vous soyez dans le monde, elle vous permet de retrouver facilement une grande variété de plats traditionnels africains, classés par pays, ingrédients ou spécialités locales. Que vous recherchiez un mafé sénégalais, un ndolé camerounais, un attiéké ivoirien ou un injera éthiopien, l’application vous guide vers des recettes authentiques et parfois des restaurants partenaires. African Foods met la richesse culinaire du continent à portée de clic pour tous les amateurs de bonne cuisine.",
+      link: "https://github.com/Menezndri2023/projet-africanFoods.git",
   },
   {
     id: 4,
@@ -30,6 +33,7 @@ export const projects = [
     title: "Developpement du site web d'Astra",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
+      link: "https://github.com/Menezndri2023/nouveau-portfolio.git"
   },
   {
     id: 5,
@@ -38,37 +42,44 @@ export const projects = [
     title: "Site web : Agence de developpement web",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
+      link: "https://github.com/Menezndri2023/nouveau-portfolio.git"
   },
 ];
 
 export const experience = [
   {
     id: 1,
-    title: "Co-Fondateur & Lead Developer - Startup Hub (2022 - Present)",
+    title: "Téléconseiller - Ecom by Cs, abidjan (2023 )",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet architecto quos earum minus modi blanditiis aperiam officiis, explicabo sint nulla ipsam adipisci excepturi. Nulla, quis. Iusto molestias eligendi optio fugiat! Quam qui laborum culpa sequi saepe commodi dolorum voluptatum sunt dignissimos molestias recusandae corporis facilis, quos maxime voluptates accusamus eveniet, non illo atque! Minima laudantium exercitationem deserunt maiores optio nam?",
+      "Mon travail en tant que téléconseiller consiste à répondre aux demandes des clients par téléphone, e-mail ou chat. Je suis responsable de fournir des informations sur les produits et services, de résoudre les problèmes des clients et de garantir leur satisfaction. J'utilise des outils de gestion de la relation client (CRM) pour suivre les interactions et assurer un service rapide et efficace. Mon rôle exige d'excellentes compétences en communication, une bonne gestion du temps et la capacité à travailler sous pression.",
   },
   {
     id: 2,
-    title: "Ingenieur Logiciel - Google (2019 - 2022)",
+    title: "Agent - TRAVORIUM (2021 - 2022)",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet architecto quos earum minus modi blanditiis aperiam officiis, explicabo sint nulla ipsam adipisci excepturi. Nulla, quis. Iusto molestias eligendi optio fugiat! Quam qui laborum culpa sequi saepe commodi dolorum voluptatum sunt dignissimos molestias recusandae corporis facilis, quos maxime voluptates accusamus eveniet, non illo atque! Minima laudantium exercitationem deserunt maiores optio nam?",
-  },
-  {
-    id: 3,
-    title: "Ingenieur Logiciel - eBay (2018 - 2019)",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet architecto quos earum minus modi blanditiis aperiam officiis, explicabo sint nulla ipsam adipisci excepturi. Nulla, quis. Iusto molestias eligendi optio fugiat! Quam qui laborum culpa sequi saepe commodi dolorum voluptatum sunt dignissimos molestias recusandae corporis facilis, quos maxime voluptates accusamus eveniet, non illo atque! Minima laudantium exercitationem deserunt maiores optio nam?",
+      "Travorium est une entreprise spécialisée dans le secteur du voyage et du tourisme. En tant qu'agent, je suis responsable de la gestion des réservations, de la planification des itinéraires et de l'assistance aux clients dans leurs demandes de voyage. Mon rôle implique également la négociation avec les fournisseurs, la gestion des budgets et la résolution des problèmes liés aux voyages. Je travaille en étroite collaboration avec les clients pour m'assurer qu'ils ont une expérience de voyage agréable et sans stress.",
   },
 ];
 
 export const educations = [
   {
-    title: "MSc Informatique",
-    name: "Collège universitaire de Londres (2017-2018)",
+    id: 1,
+    title: "Fullstack developer",
+    name: "Gomycode , Casablanca (2023-2024)",
   },
   {
-    title: "B.Sc. Informatique",
-    name: "Université de Bristol (2013-2017)",
+    id: 2,
+    title: "Sécurité Numérique",
+    name: "ANSSI ,Sécunum France (2021-2022)",
+  },
+  {
+    id: 3,
+    title: "Baccalauréat Generale",
+    name: "LYCEE MODERNE DE MAN, MAN (2019-2020)",
+  },
+  {
+    id: 4,
+    title: "BREVET D'ETUDES DU PREMIER CYCLE",
+    name: "COLLEGE COFFI GADEAU, TIEBISOU (2015-2016)",
   },
 ];
